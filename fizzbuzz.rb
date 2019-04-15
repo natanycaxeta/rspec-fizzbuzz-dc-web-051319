@@ -9,11 +9,8 @@ def fizzbuzz (int)
   end
   if int % 5 == 0 
     return "Buzz"
-  else
-    return "nil"
   end
   if int = 15
     return "FizzBuzz"
   end
-  if int 
 end
