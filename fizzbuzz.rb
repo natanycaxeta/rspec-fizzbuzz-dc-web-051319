@@ -12,7 +12,5 @@ def fizzbuzz (int)
     return "FizzBuzz"
   end
   if !int 
-  end
-  if int ==
 end
 end
