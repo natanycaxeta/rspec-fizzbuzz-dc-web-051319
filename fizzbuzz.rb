@@ -4,8 +4,6 @@
 def fizzbuzz (int)
   if int % 3 == 0 
     return "Fizz"
-  else
-    return "nil"
   end
   if int % 5 == 0 
     return "Buzz"
@@ -13,4 +11,5 @@ def fizzbuzz (int)
   if int = 15
     return "FizzBuzz"
   end
+  if int 
 end
