@@ -11,5 +11,5 @@ def fizzbuzz (int)
   if int = 15
     return "FizzBuzz"
   end
-  if int 
+  if !int 
 end
