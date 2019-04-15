@@ -2,15 +2,15 @@
 # See README.md for instructions on how to do this
 
 def fizzbuzz (int)
+  if int % 5 == 0 and int % 3 == 0
+    return "FizzBuzz"
+  end
+  if !int 
+  end
   if int % 3 == 0 
     return "Fizz"
   end
   if int % 5 == 0 
     return "Buzz"
   end
-  if int % 5 == 0 and int % 3 == 0
-    return "FizzBuzz"
-  end
-  if !int 
-end
 end
